@@ -6,6 +6,12 @@ Official website & portfolio for **Frostxe Interactive** game development studio
 
 ---
 
+🔗 **Live Demo (GitHub Pages):** [https://frostxe.github.io/frostxe-studio/](https://frostxe.github.io/frostxe-studio/)  
+📦 **GitHub Repository:** [https://github.com/Frostxe/frostxe-studio](https://github.com/Frostxe/frostxe-studio)  
+💬 **Telegram Bot:** [@Frostxeintr_bot](https://t.me/Frostxeintr_bot)
+
+---
+
 ## ⚡ Новые возможности / Key Features
 
 - **🌐 Двуязычный интерфейс (RU / EN)**:
